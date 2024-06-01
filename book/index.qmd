@@ -1,0 +1,4 @@
+# Preface {.unnumbered}
+
+This book's purpose is to give an explanation or an idea of how quarto book look like generally with the default settings. We will dive into explaining quarto through this book.
+

@@ -1,0 +1,92 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto Presentation",
+    "section": "",
+    "text": "Preface\nThis book’s purpose is to give an explanation or an idea of how quarto book look like generally with the default settings. We will dive into explaining quarto through this book.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 What is Quarto ?\nQuarto is an open-source tool developed by RStudio, designed for the creation of dynamic and interactive documents, based on technologies such as Pandoc, Jupyter, and R Markdown. It enables users to generate documents in a variety of formats, such as HTML, PDF, Word, and much more, by integrating code from several programming languages.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "intro.html#what-is-quarto",
+    "href": "intro.html#what-is-quarto",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1.1 Information about Quarto\nPour en savoir plus sur Quarto et ses fonctionnalités, vous pouvez consulter les sources suivantes :\n\nQuarto official website:\n\nThe official Quarto website offers comprehensive documentation, tutorials and examples for getting started with Quarto.\nQuarto Documentation\n\nRStudio Blog:\n\nThe RStudio blog contains articles and announcements about Quarto, including practical guides and case studies.\nRStudio Blog\n\nGitHub Repository:\n\nQuarto’s GitHub repository contains source code, trouble tickets, and discussions about Quarto’s development.\nQuarto on GitHub\n\nQuarto YouTube Channel:\n\nQuarto’s YouTube channel features tutorial videos and webinars on how to use Quarto.\nQuarto on YouTube\n\nRStudio Community:\n\nThe RStudio community offers discussion forums where Quarto users can ask questions, share tips and find solutions to their problems.\nRStudio Community\n\n\n\n\n1.1.2 Using Sources in Quarto\nTo integrate and use these resources in your Quarto projects, here are a few tips:\n\n1.1.2.1 Documentation and Tutorials\n\nAccess the documentation:\n\nThe official documentation is the starting point for any questions or specific requirements you may have concerning Quarto. It covers all aspects of Quarto use, from installation to advanced document customization.\n\nListen to tutorials:\n\nThe step-by-step tutorials available on the official website and YouTube channel are extremely useful for beginners as well as for advanced users looking to deepen their knowledge.\n\n\n\n\n1.1.2.2 Collaboration and Support\n\nCommunity participation:\n\nJoin the RStudio community to interact with other Quarto users, ask questions and share solutions. It’s also a great way to keep up to date with the latest news and best practices.\n\nContribute on Github:\n\nIf you encounter bugs or have suggestions for improvement, you can contribute directly via the Quarto GitHub repository. You can also check out the discussions and open issues there to see what the community is currently working on.\n\n\n\n\n\n1.1.3 \nQuarto is a powerful, flexible tool for creating dynamic, interactive documents, backed by a strong community and extensive documentation. By using the resources available on the platforms mentioned, you can maximize your use of Quarto and improve the quality of your documents.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#avantage-de-quarto",
+    "href": "intro.html#avantage-de-quarto",
+    "title": "1  Introduction",
+    "section": "1.2 Avantage de Quarto",
+    "text": "1.2 Avantage de Quarto\nTout comme Rmarkdown, Quarto a les memes fonctionnalités que Rmarkdown. En effet elle peut faire tout ce que Rmarkdown peut faire en allant de la generation des documents de qualité à de magnifiques presentation powerpoint. Son avantage par rapport à Rmarkdown reside dans sa facilité d’utilisation. Elle ne necessite pas la maitrise des differentes syntaxes d’ecriture comme le necessiterait Rmarkdown. On peut meme le comparer à l’ecriture d’un fichier sur microsoft office word à la seule difference qu’elle inclut l’utilisation de code que ce soit sur R, python, sql…",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#modèle-de-sortie-dun-document-quarto",
+    "href": "intro.html#modèle-de-sortie-dun-document-quarto",
+    "title": "1  Introduction",
+    "section": "1.3 Modèle de sortie d’un document Quarto",
+    "text": "1.3 Modèle de sortie d’un document Quarto\nQuarto nous propose plusieurs modèle de sortie pour nos documents. En effet nous pouvons generer des documents sous format world, powerpoint, html, powerpoint. Elle nous offre une large game de document sous plusieurs extensions.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#quartos-advantages",
+    "href": "intro.html#quartos-advantages",
+    "title": "1  Introduction",
+    "section": "1.2 Quarto’s advantages",
+    "text": "1.2 Quarto’s advantages\nLike Rmarkdown, Quarto has the same functionality as Rmarkdown. In fact, it can do everything that Rmarkdown can do, from generating high-quality documents to magnificent powerpoint presentations. Its advantage over Rmarkdown lies in its ease of use. It doesn’t require the mastery of different writing syntaxes that Rmarkdown does. It can even be compared to writing a file on microsoft office word, with the only difference being that it includes the use of code, whether on R, python, sql…",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#quarto-document-output-templates",
+    "href": "intro.html#quarto-document-output-templates",
+    "title": "1  Introduction",
+    "section": "1.3 Quarto document output templates",
+    "text": "1.3 Quarto document output templates\nQuarto offers several output models for our documents. We can generate documents in world, powerpoint, html and powerpoint formats. It offers a wide range of document extensions.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+# Introduction
+
+## What is Quarto ?
+
+Quarto is an open-source tool developed by RStudio, designed for the creation of dynamic and interactive documents, based on technologies such as Pandoc, Jupyter, and R Markdown.
+It enables users to generate documents in a variety of formats, such as HTML, PDF,
+Word, and much more, by integrating code from several programming languages.
+
+
+### **Information about Quarto**
+
+Pour en savoir plus sur Quarto et ses fonctionnalités, vous pouvez consulter les sources suivantes :
+
+1.  **Quarto official website**:
+
+    -   The official Quarto website offers comprehensive documentation, tutorials and examples for getting started with Quarto.
+
+    -   Quarto Documentation
+
+2.  **RStudio Blog**:
+
+    -   The RStudio blog contains articles and announcements about Quarto, including practical guides and case studies.
+
+    -   RStudio Blog
+
+3.  **GitHub Repository**:
+
+    -   Quarto's GitHub repository contains source code, trouble tickets, and discussions about Quarto's development.
+
+    -   [Quarto on GitHub](https://github.com/quarto-dev/quarto-cli)
+
+4.  **Quarto YouTube Channel**:
+
+    -   Quarto's YouTube channel features tutorial videos and webinars on how to use Quarto.
+
+    -   [Quarto on YouTube](https://www.youtube.com/c/QuartoPub)
+
+5.  **RStudio Community**:
+
+    -   The RStudio community offers discussion forums where Quarto users can ask questions, share tips and find solutions to their problems.
+
+    -   RStudio Community
+
+### **Using Sources in Quarto**
+
+To integrate and use these resources in your Quarto projects, here are a few tips:
+
+#### **Documentation and Tutorials**
+
+-   **Access the documentation**:
+
+    -   The official documentation is the starting point for any questions or specific requirements you may have concerning Quarto. It covers all aspects of Quarto use, from installation to advanced document customization.
+
+-   **Listen to tutorials**:
+
+    -   The step-by-step tutorials available on the official website and YouTube channel are extremely useful for beginners as well as for advanced users looking to deepen their knowledge.
+
+#### **Collaboration and Support**
+
+-   **Community participation**:
+
+    -   Join the RStudio community to interact with other Quarto users, ask questions and share solutions. It's also a great way to keep up to date with the latest news and best practices.
+
+-   **Contribute on Github**:
+
+    -   If you encounter bugs or have suggestions for improvement, you can contribute directly via the Quarto GitHub repository. You can also check out the discussions and open issues there to see what the community is currently working on.
+
+### 
+
+Quarto is a powerful, flexible tool for creating dynamic, interactive documents, backed by a strong community and extensive documentation. By using the resources available on the platforms mentioned, you can maximize your use of Quarto and improve the quality of your documents.
+
+## **Quarto's advantages**
+
+Like Rmarkdown, Quarto has the same functionality as Rmarkdown. In fact, it can do everything that Rmarkdown can do, from generating high-quality documents to magnificent powerpoint presentations. Its advantage over Rmarkdown lies in its ease of use. It doesn't require the mastery of different writing syntaxes that Rmarkdown does. It can even be compared to writing a file on microsoft office word, with the only difference being that it includes the use of code, whether on R, python, sql...
+
+## **Quarto document output templates**
+
+Quarto offers several output models for our documents. We can generate documents in world, powerpoint, html and powerpoint formats. It offers a wide range of document extensions.
+
